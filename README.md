@@ -52,7 +52,7 @@ Here, I'm leveling up my development skills, collaborating with passionate peers
 ## 🟢 &nbsp; Discord Presence
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1072553881134972970?theme=dark&bg=282a36&animated=true&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" width="420"/>
+  <img src="https://lanyard.cnrad.dev/api/1072553881134972970?theme=dark&bg=282a36&animated=true&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" width="720"/>
 </p>
 <sup>👆 Always open for a chat, collab, or anime tech talk! (Replace <code>your-discord-id-here</code> with your Discord user ID)</sup>
 
