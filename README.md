@@ -12,7 +12,6 @@
     Code alchemist, tech explorer, and relentless learner—blending creativity, precision, and a dash of anime flair into every project!
   </em>
 </div>
-
 ---
 
 ## 📝 &nbsp; About Me
@@ -38,6 +37,24 @@ I'm mrtsubasa, a full-stack developer and proud student at **O'Clock School**. H
 
 **I'm currently a student at [O'Clock School](https://oclock.io), an innovative remote tech bootcamp.**  
 Here, I'm leveling up my development skills, collaborating with passionate peers, and training to become a true digital hero—anime style!
+
+---
+
+## 📊 &nbsp; My Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrtsubasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrtsubasa&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+---
+
+## 🟢 &nbsp; Discord Presence
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1072553881134972970?theme=dark&bg=282a36&animated=true&hideDiscrim=true&borderRadius=30px" alt="Discord Presence" width="420"/>
+</p>
+<sup>👆 Always open for a chat, collab, or anime tech talk! (Replace <code>your-discord-id-here</code> with your Discord user ID)</sup>
 
 ---
 
