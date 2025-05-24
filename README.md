@@ -8,40 +8,72 @@
   </em>
 </div>
 
+  <em>
+    Code alchemist, tech explorer, and relentless learner—blending creativity, precision, and a dash of anime flair into every project!
+  </em>
+</div>
+
 ---
 
 ## 📝 &nbsp; About Me
 
 ```yaml
 location: 🇷🇸 Yougoslavia
-profession: Full-stack Developer
+profession: Full-stack Developer & Student
+school: O'Clock School
 style: Anime x IT
 ```
 
 **🌟 Welcome to my world — where code meets creativity, and every day feels like a new episode!**
 
-I'm mrtsubasa, a full-stack developer straight out of Yougoslavia, wielding my keyboard like a katana and building digital worlds with the energy of your favorite anime hero. My journey in tech is powered by curiosity, relentless optimism, and the spirit of continuous improvement—always searching for the next power-up, whether it’s a new framework, an innovative approach, or the perfect way to organize code.
+I'm mrtsubasa, a full-stack developer and proud student at **O'Clock School**. Hailing from Yougoslavia, I wield my keyboard like a katana and build digital worlds with the energy of your favorite anime hero. My journey in tech is powered by curiosity, relentless optimism, and the spirit of continuous improvement—always searching for the next power-up, whether it’s a new framework, an innovative approach, or the perfect way to organize code.
 
-**🧑‍💻 My IT Adventure:**
+---
+
+## 🎓 &nbsp; My School
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/25612310?s=200&v=4" width="60" alt="O'Clock School Logo" />
+</p>
+
+**I'm currently a student at [O'Clock School](https://oclock.io), an innovative remote tech bootcamp.**  
+Here, I'm leveling up my development skills, collaborating with passionate peers, and training to become a true digital hero—anime style!
+
+---
+
+## 🧑‍💻 &nbsp; My IT Adventure
+
 - Started as a code apprentice, now a multi-stack ninja: from backend realms (Golang, Nodejs, PHP, Python, C#) to frontend universes (React, Nextjs, Angular, HTML/CSS, Tailwind, Bootstrap, jQuery).
 - Database summoner: MySQL, MariaDB, PostgreSQL, MongoDB, Prisma, Sequelize.
 - DevOps side-quester: Docker, Git, and a master of multiple operating systems—NixOS, Arch Linux, and Windows.
 - Always experimenting: I love exploring new tools such as Bun.js, Deno.js, and more.
 
-**💡 Anime x IT Persona:**
+---
+
+## 💡 &nbsp; Anime x IT Persona
+
 - Rigorous like a tactician, ensuring my code is as organized, documented, and indented as a mecha pilot’s control panel.
 - Creative like an anime protagonist—brainstorming wild solutions and pushing past boundaries for that “wow” moment.
 - Constantly training: leveling up my skills, learning new technologies, and staying ahead with tech & AI news.
 
-**🤝 Soft Skills & Mindset:**
+---
+
+## 🤝 &nbsp; Soft Skills & Mindset
+
 - Always open to teamwork and collaboration—after all, every hero needs a great party!
 - Thrive in brainstorms, love innovating, and believe that every bug is just a mini-boss to defeat.
 - Dedicated to personal growth, adaptability, and keeping my toolbox (and mind) sharp.
 
-**🧠 Tech & AI Allies:**
-- My sidekicks: ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA—always ready for a knowledge duel or hackathon marathon.
+---
 
-**✨ Fun Facts:**
+## 🧠 &nbsp; Tech & AI Allies
+
+My sidekicks: **ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA**—always ready for a knowledge duel or hackathon marathon.
+
+---
+
+## ✨ &nbsp; Fun Facts
+
 - My favorite anime genres: Shonen, Sci-Fi, and anything with epic transformations.
 - I see every coding session as a new episode—sometimes there’s drama, sometimes comedy, but always action!
 - Motto: _“Code like nobody’s watching, debug like you’re in a tournament arc.”_
@@ -51,7 +83,7 @@ I'm mrtsubasa, a full-stack developer straight out of Yougoslavia, wielding my k
 ## 🌸 &nbsp; Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,react,nextjs,angular,php,symfony,tailwind,bootstrap,jquery,nodejs,bun,deno,laravel,mysql,postgres,mongodb,prisma,sequelize,python,docker,git" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,react,nextjs,angular,php,symfony,tailwind,bootstrap,jquery,nodejs,bun,deno,laravel,mysql,mariadb,postgres,mongodb,prisma,sequelize,python,docker,git" />
 </p>
 
 ---
