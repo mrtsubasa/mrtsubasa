@@ -100,7 +100,7 @@ My sidekicks: **ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA**—always ready 
 ## 🌸 &nbsp; Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,react,nextjs,angular,php,symfony,tailwind,bootstrap,jquery,nodejs,bun,deno,laravel,mysql,mariadb,postgres,mongodb,prisma,sequelize,python,docker,git" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,react,nextjs,angular,php,symfony,tailwind,bootstrap,jquery,nodejs,bun,deno,laravel,mysql,postgres,mongodb,prisma,sequelize,python,docker,git" />
 </p>
 
 ---
