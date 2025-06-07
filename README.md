@@ -2,143 +2,127 @@
    <img src="https://media.giphy.com/media/DXJftE7hSlEt2/giphy.gif?cid=ecf05e470osa1tl6bazw5gcjmsfb8zu6a4ip12x60a1ngs3y&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180" alt="Anime coder"/>
 
   # <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ninja_1f977.gif" width="36"/> Konbanwa! I'm mrtsubasa <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="28"/>
-
-  <em>
-    Code alchemist, tech explorer, and relentless learner—blending creativity, precision, and a dash of anime flair into every project!
-  </em>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Anime%20Boss-%F0%9F%91%91%20King-d4af37?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack%20Master-100%25-4ade80?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commit%20Addict-Over%209000%21-f43f5e?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=mrtsubasa&color=9d4edd&style=flat-square" alt="Profile Views" />
-</p>
+## 🇫🇷 À propos de moi
+
+Code alchimiste, explorateur de technos et apprenti éternel. Ici, la routine n’existe pas : chaque projet est un terrain de jeu à explorer, optimiser et réinventer.
+
+```yaml
+localisation: 🇷🇸 Yougoslavie
+profession: Développeur Full-stack & Étudiant
+école: O'Clock
+état d'esprit: Expérimenter, optimiser, s'amuser
+citation: "La monotonie ? Très peu pour moi. Je préfère transformer chaque ligne de code en mini-challenge."
+```
+
+Full-stack developer et étudiant, je vois l’informatique comme un vaste espace de possibilités.  
+J’aime bidouiller, explorer de nouveaux frameworks, et transformer la moindre fonctionnalité en expérience unique.  
+> "Si c’est trop simple, c’est qu’il reste un secret à trouver."
 
 ---
 
-## 📝 &nbsp; About Me
+## 🇬🇧 About Me
+
+Code alchemist, tech explorer, and relentless learner. Here, routine doesn’t exist : every project is a playground to explore, optimize, and reinvent.
 
 ```yaml
 location: 🇷🇸 Yugoslavia
 profession: Full-stack Developer & Student
-school: O'Clock School
-style: Anime x IT
+school: O'Clock
+mindset: Experiment, optimize, have fun
+quote: "Monotony? Not for me. I prefer turning every line of code into a mini-challenge."
 ```
 
-**🌟 Welcome to my world — where code meets creativity, and every day feels like a new episode!**
-
-I'm mrtsubasa, a full-stack developer and proud student at **O'Clock School**. Hailing from Yugoslavia, I wield my keyboard like a katana and build digital worlds with the energy of your favorite anime hero. My journey in tech is fueled by curiosity, relentless optimism, and the spirit of continuous improvement—always searching for the next power-up, whether it’s a new framework, an innovative approach, or the perfect way to organize code.
-
----
-
-## 🏆 &nbsp; Boss Achievements
-
-- 🥇 **Top 1** on my own projects (because, who else?)
-- 👑 **Refactor King:** my code is cleaner than Saitama's room
-- 🧠 **Big Brain Mode:** always ahead, always faster than the changelog
-- 🏅 **Anime x IT Crossover:** where others see code, I see a shōnen in action
+As a full-stack developer and student, I see IT as a vast field of opportunities.  
+I love tinkering, trying out new frameworks, and turning every feature into a unique experience.  
+> "If it’s too easy, there’s probably a hidden secret."
 
 ---
 
-## 🎓 &nbsp; My School
+## 🇫🇷 Points forts
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/25612310?s=200&v=4" width="60" alt="O'Clock School Logo" />
-</p>
-
-**Currently a student at [O'Clock School](https://oclock.io), an innovative remote tech bootcamp.**  
-Here, I'm leveling up my dev skills, collaborating with passionate peers, and training to become a true digital hero—anime style!
+- 🎮 **Multitâche** : brainstormer, coder et analyser en parallèle – jamais à court d’idées.
+- 🧬 **Optimisation** : toujours à la recherche de la ligne à rendre plus efficace.
+- 🥱 **Zéro routine** : dès que ça devient prévisible, je change de stack, de style ou de challenge.
+- 🧩 **Exploration** : backend, frontend, IA, DevOps… chaque domaine est une nouvelle “zone” à explorer à fond.
 
 ---
 
-## 📊 &nbsp; My Stats
+## 🇬🇧 Highlights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrtsubasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrtsubasa&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+- 🎮 **Multitasking** : brainstorming, coding, and analyzing in parallel – never out of ideas.
+- 🧬 **Optimization** : always looking to make things more efficient.
+- 🥱 **No routine** : as soon as things feel predictable, I switch stack, style, or challenge.
+- 🧩 **Exploration** : backend, frontend, AI, DevOps… every area is a new “zone” to explore.
 
 ---
 
-## 💬 &nbsp; The King's Words
+## 🇫🇷 Ma philosophie du dev
 
-> "My presence on this repo instantly increases your skill by 20%."
+> “Le code, c’est comme un jeu de stratégie : chaque bug devient une opportunité de tester une approche inédite.”
 >
-> "When I commit, GitHub bows."
+> “J’adore expérimenter des builds différents sur mes projets – l’ennui n’a pas sa place ici.”
+>
+> “Changer d’outil, d’approche, de langage : tout est bon pour garder l’aventure passionnante.”
+>
+> “On vise la qualité, mais il faut surtout que le voyage soit fun.”
 
 ---
 
-## 👑 &nbsp; Top Anime Kings
+## 🇬🇧 Dev Philosophy
 
-- Gojo Satoru (Jujutsu Kaisen) – “Only the elite understand the elite.”
-- Hao Asakura (Shaman King) – “Domination is an art.”
-- Gilgamesh (Fate) – “Bow before your King.”
-- Vegeta (DBZ) – “Pride is power.”
-
----
-
-## 🟢 &nbsp; Discord Presence
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1072553881134972970?showDisplayName=true&hideActivity=true&theme=dark" width="420"/>
-</p>
-<sup>👆 Always open for a chat, collab, or anime tech talk! (Replace <code>your-discord-id-here</code> with your Discord user ID)</sup>
+> “Code is like a strategy game : every bug is a chance to try a new approach.”
+>
+> “I love experimenting with different builds on my projects – boredom has no place here.”
+>
+> “Switching tools, approaches, or languages keeps the adventure exciting.”
+>
+> “Quality is the goal, but the journey has to be fun.”
 
 ---
 
-## 🧑‍💻 &nbsp; My IT Adventure
+## 🇫🇷 Mon terrain de jeu technique
 
-- Started as a code apprentice, now a multi-stack ninja: from backend realms (Golang, Nodejs, PHP, Python, C#) to frontend universes (React, Nextjs, Angular, HTML/CSS, Tailwind, Bootstrap, jQuery).
-- Database summoner: MySQL, MariaDB, PostgreSQL, MongoDB, Prisma, Sequelize.
-- DevOps side-quester: Docker, Git, and a master of multiple operating systems—NixOS, Arch Linux, and Windows.
-- Always experimenting: I love exploring new tools such as Bun.js, Deno.js, and more.
-
----
-
-## 💡 &nbsp; Anime x IT Persona
-
-- Rigorous like a tactician, ensuring my code is as organized, documented, and indented as a mecha pilot’s control panel.
-- Creative like an anime protagonist—brainstorming wild solutions and pushing past boundaries for that “wow” moment.
-- Constantly training: leveling up my skills, learning new technologies, and staying ahead with tech & AI news.
+- **Polyvalent** : Backend (Golang, Nodejs, Python…), Frontend (React, Nextjs, Angular…), Data (SQL/NoSQL), DevOps (Docker, NixOS, etc.).
+- **Curieux** : J’expérimente tout : nouvelles libs, frameworks, outils, IA…
+- **Optimisation & Organisation** : Refactor, clean code, et architecture pensée comme un setup de jeu : chaque élément a sa place.
+- **Flexibilité** : Capacité à m’adapter à tout contexte, à toute équipe, à tout challenge.
 
 ---
 
-## 🤝 &nbsp; Soft Skills & Mindset
+## 🇬🇧 Tech Playground
 
-- Always open to teamwork and collaboration—every hero needs a great party!
-- Thrive in brainstorms, love innovating, and believe every bug is just a mini-boss to defeat.
-- Dedicated to personal growth, adaptability, and keeping my toolbox (and mind) sharp.
-
----
-
-## 🧠 &nbsp; Tech & AI Allies
-
-My sidekicks: **ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA**—always ready for a knowledge duel or hackathon marathon.
+- **Versatile** : Backend (Golang, Nodejs, Python…), Frontend (React, Nextjs, Angular…), Data (SQL/NoSQL), DevOps (Docker, NixOS, etc.).
+- **Curious** : I try everything : new libs, frameworks, tools, AI…
+- **Optimization & Organization** : Refactor, clean code, and architecture designed like a gaming setup : everything in its right place.
+- **Flexibility** : Able to adapt to any context, team, or challenge.
 
 ---
 
-## 🧠 &nbsp; Did You Know?
+## 🇫🇷 Fun Facts
 
-- I code faster than my own shadow (and your unit tests).
-- My editor has a “King Only” mode.
-- AI consults me when it has doubts.
-- My favorite code editor: VS Code/Zed, because royalty deserves the best 👑
-- I can code AND watch anime at the same time (ultimate skill).
-
----
-
-## ✨ &nbsp; Fun Facts
-
-- My favorite anime genres: Shonen, Sci-Fi, and anything with epic transformations.
-- I see every coding session as a new episode—sometimes drama, sometimes comedy, but always action!
-- Motto: _“Code like nobody’s watching, debug like you’re in a tournament arc.”_
+- Je vois chaque repo comme une nouvelle “run” à optimiser.
+- Je change de stack comme d’ambiance musicale selon le mood.
+- J’adore les discussions techniques qui se transforment en sessions de théoriecraft.
+- Mon éditeur préféré ? Celui que je peux personnaliser à l’infini.
+- Ma devise : “Si tout marche du premier coup, c’est louche : creusons un peu plus.”
 
 ---
 
-## 🌸 &nbsp; Tech Stack
+## 🇬🇧 Fun Facts
+
+- I see every repo as a new “run” to optimize.
+- I switch stacks like I switch music, depending on the mood.
+- I love tech talks that turn into theorycrafting sessions.
+- My favorite editor? The one I can customize endlessly.
+- Motto : “If it works first try, something’s fishy – let’s dig deeper.”
+
+---
+
+## 🛠️ &nbsp; Stack / Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,react,nextjs,angular,php,symfony,tailwind,bootstrap,jquery,nodejs,bun,deno,laravel,mysql,postgres,mongodb,prisma,sequelize,python,docker,git" />
@@ -146,7 +130,7 @@ My sidekicks: **ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA**—always ready 
 
 ---
 
-## 🖥️ &nbsp; Operating Systems
+## 🖥️ &nbsp; OS
 
 <p align="center">
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white"/>
@@ -156,15 +140,7 @@ My sidekicks: **ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA**—always ready 
 
 ---
 
-## 🤖 &nbsp; Tech & AI Tools I Love
-
-| AI & Tools | 
-|------------|
-| ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA |
-
----
-
-## 📣 &nbsp; Contact the King
+## 📣 &nbsp; Contact
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tonserveur)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonhandle)
@@ -172,14 +148,16 @@ My sidekicks: **ChatGPT, Claude.AI, Phind, LocalAI, Awesome IA**—always ready 
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF2bjRzNXg2emoya3p3eHQzNTM3djVnNng0M256cDB4cXgwMTVkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IqBtos4gRdpvO/giphy.gif" width="260" alt="Gojo Satoru"/>
-  <br>
-  <em>“In this world, some are born to rule.”</em>
-</p>
+## 🗨️ 🇫🇷 Discutons (autour d’un barbecue !)
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY4MHZkNGtvcnd0ajByamd2dHFnMnlnbGNiamJ1dHZmYWQ1dWVqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SJtoy5t2znrUc/giphy.gif" width="120"/>
-  <br>
-  <b>“Long live code, long live the King.”</b>
-</p>
+J’adore parler code, tech, IA, ou juste refaire le monde tranquillement. Mais le top ? Discuter autour d’un barbecue, ou d’un bon café, loin du stress et dans une ambiance détendue.  
+Si tu veux échanger sur la tech, l’anime, ou n’importe quel sujet, n’hésite pas à venir discuter – ici, c’est sans pression, juste le plaisir du partage.
+
+---
+
+## 🗨️ 🇬🇧 Let’s Chat (preferably around a barbecue!)
+
+I love talking about code, tech, AI, or just having a chill conversation. But the best? Chatting around a barbecue, or over a good coffee, away from stress and in a relaxed vibe.  
+If you want to talk about tech, anime, or anything else, feel free to reach out – no pressure here, just the pleasure of sharing ideas.
+
+---
