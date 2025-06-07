@@ -1,6 +1,6 @@
 <div align="center">
    <img src="https://media.giphy.com/media/DXJftE7hSlEt2/giphy.gif?cid=ecf05e470osa1tl6bazw5gcjmsfb8zu6a4ip12x60a1ngs3y&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180" alt="Anime coder"/>
-
+  <br>
   # <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/ninja_1f977.gif" width="36"/> Konbanwa! I'm mrtsubasa <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="28"/>
 </div>
 
@@ -13,7 +13,7 @@ Code alchimiste, explorateur de technos et apprenti éternel. Ici, la routine n�
 ```yaml
 localisation: 🇷🇸 Yougoslavie
 profession: Développeur Full-stack & Étudiant
-école: O'Clock
+école: O'Clock School
 état d'esprit: Expérimenter, optimiser, s'amuser
 citation: "La monotonie ? Très peu pour moi. Je préfère transformer chaque ligne de code en mini-challenge."
 ```
@@ -31,7 +31,7 @@ Code alchemist, tech explorer, and relentless learner. Here, routine doesn’t e
 ```yaml
 location: 🇷🇸 Yugoslavia
 profession: Full-stack Developer & Student
-school: O'Clock
+school: O'Clock School
 mindset: Experiment, optimize, have fun
 quote: "Monotony? Not for me. I prefer turning every line of code into a mini-challenge."
 ```
@@ -140,6 +140,60 @@ I love tinkering, trying out new frameworks, and turning every feature into a un
 
 ---
 
+## 🇫🇷 Mon profil Discord
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1072553881134972970?showDisplayName=true&hideActivity=true&theme=dark" width="420"/>
+</p>
+<sup>
+  Toujours partant pour discuter ou collaborer (remplace l’ID si besoin) !
+</sup>
+
+---
+
+## 🇬🇧 My Discord Profile
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1072553881134972970?showDisplayName=true&hideActivity=true&theme=dark" width="420"/>
+</p>
+<sup>
+  Always open for a chat or collab (replace the ID if needed)!
+</sup>
+
+---
+
+## 🇫🇷 Mes stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrtsubasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrtsubasa&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+---
+
+## 🇬🇧 My Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrtsubasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrtsubasa&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+---
+
+## 🎯 Widgets & Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mrtsubasa&theme=algolia&hide_border=true"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mrtsubasa&color=9d4edd&style=flat-square" alt="Profile Views" />
+  <br>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=algolia" alt="Jokes"/>
+  <br>
+</p>
+
+---
+
+
 ## 📣 &nbsp; Contact
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tonserveur)
@@ -161,3 +215,8 @@ I love talking about code, tech, AI, or just having a chill conversation. But th
 If you want to talk about tech, anime, or anything else, feel free to reach out – no pressure here, just the pleasure of sharing ideas.
 
 ---
+
+<p align="center">
+  🔥🐉🐧🎮🍖<br>
+  <i>Code, chill & barbecue — see you soon!</i>
+</p>
