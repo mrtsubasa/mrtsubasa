@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://media.giphy.com/media/DXJftE7hSlEt2/giphy.gif" width="180" alt="Anime coder"/>
+   <img src="./limule.gif" width="180" alt="Anime coder"/>
    <br>
       Konbanwa! I'm mrtsubasa <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="28"/>
 </div>
