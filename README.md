@@ -16,7 +16,6 @@
   ```yaml
   localisation: 🇷🇸 Yougoslavie
   profession: Développeur Full-stack & Étudiant
-  école: O'Clock School
   cosmos: Code, Stratégie & Évolution constante
   mode de combat: Adaptable, Stratégique, Passionné
   citation: "Je reste dans l'ombre pour mieux briller quand ça compte vraiment."
