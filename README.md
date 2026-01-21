@@ -15,7 +15,7 @@
 
   ```yaml
   localisation: 🇷🇸 Yougoslavie
-  profession: Développeur Full-stack & Étudiant
+  profession: Développeur Full-stack
   cosmos: Code, Stratégie & Évolution constante
   mode de combat: Adaptable, Stratégique, Passionné
   citation: "Je reste dans l'ombre pour mieux briller quand ça compte vraiment."
@@ -31,8 +31,7 @@
 
   ```yaml
   location: 🇷🇸 Yugoslavia
-  profession: Full-stack Developer & Student
-  school: O'Clock School
+  profession: Full-stack Developer
   cosmos: Code, Strategy & Constant Evolution
   combat mode: Adaptive, Strategic, Passionate
   quote: "I stay in the shadows to shine brighter when it truly matters."
