@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./Assets/Images/6168-nagatoro.png.jpeg" width="380" alt="Nagatoro"/>
-  <h2>Hi, I am Tsubasa</h2>
   <p><i>Young Full-stack Developer from Yugoslavia</i></p>
   <p>In the shadows, I evolve. In the light, I ship.</p>
   <img src="./Assets/Images/A31F601C7C8D665EB4B36A5E5545ED5920FD3847.jpeg" width="140" alt="Profile"/>
