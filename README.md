@@ -90,6 +90,10 @@ device:
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=mrtsubasa&theme=shadow&layout=compact" height="160" alt="Top Languages"/>
 </div>
 
+<div align="center">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mrtsubasa" height="160" alt="Github Stats"
+    </div>
+
 ---
 
 ## 🛠️ Stack / Toolbox
