@@ -103,7 +103,7 @@ device:
 ## My Team
 
 ```text
-Taheb • Kisakay • Xon • 7up • Mikky • Swammyy • Aku • Shining
+Taheb • Kisakay • Xon • Dok • 7up • Mikky • Swammyy • Aku • Shining
 ```
 
 ---
