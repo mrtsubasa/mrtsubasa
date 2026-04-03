@@ -109,6 +109,21 @@ Taheb • Kisakay • Xon • Dok • 7up • Mikky • Swammyy • Aku • Shin
 
 ---
 
+## My Discord Guild
+
+```text
+SKBD (SKIBIDI):
+    - Shiiroz
+    - Athena
+    - Kasumi
+    - Neoned
+    - Kazxmi
+    - And all SKBD Members 
+```
+
+---
+
+
 ## Contact Me
 
 - [Boar Hat](https://discord.gg/7T7zqmp2kH)
