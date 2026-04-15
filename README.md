@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./Assets/Images/6168-nagatoro.png.jpeg" width="380" alt="Nagatoro"/>
-  <p><i>Young Full-stack Developer from Yugoslavia</i></p>
+<img src="./Assets/Images/1690369561_new_welcome_ame_ver.gif" width="420"/>
+<p><i>Young Full-stack Developer from Yugoslavia</i></p>
   <p>In the shadows, I evolve. In the light, I ship.</p>
-  <img src="./Assets/Images/A31F601C7C8D665EB4B36A5E5545ED5920FD3847.jpeg" width="140" alt="Profile"/>
+  <img src="./Assets/Images/1753659265_new_amebeachanimation.gif" width="140" alt="Profile"/>
 </div>
 
 ---
@@ -13,7 +13,9 @@ $\color{Tan}{Hi\ I\ am\ Tsubasa\ Welcome\ to\ my\ GitHub}$
 
 ## About Me
 
-```yaml
+<img src="./Assets/Images/1737137963_new_KangelSample.gif" width="160" alt="KangelSample" align="right"/>
+
+<pre lang="yaml">
 location: 🇷🇸 Yugoslavia
 profession: Full-stack Developer
 age: 23
@@ -21,35 +23,45 @@ gender: Male
 cosmos: Code, Strategy & Constant Evolution
 combat_mode: Adaptive, Strategic, Passionate
 quote: "I stay in the shadows to shine brighter when it truly matters."
-```
+</pre>
+
+<br clear="right"/>
+
 
 ---
 
 ## Projects
 
-```yaml
+
+<img src = "./Assets/Images/1737137963_new_KangelSample.gif" width="160" alt="AmeBeachAnimation" align="left"/>
+
+<pre lang="yaml">
 actual:
   - Clarity
 contributed:
   - iHorizon
-```
+</pre>
 
-<div align="center">
-  <img src="./Assets/Images/1619466957_Miss-Nagatoro-images-cles-animees-pour-le-troisieme-episode.jpg" width="420" alt="Nagatoro"/>
-</div>
+<br clear="left"/>
 
 ---
 
 ## Interests
 
-```yaml
+<img src = "./Assets/Images/1737137963_new_KangelSample.gif" width="160" alt="AmeBeachAnimation" align="right"/>
+
+<pre lang="yaml">
 passion:
   - Anime
   - Gaming
   - Coding
   - Strategy
   - IT Interest
-```
+</pre>
+
+<br clear="right"/>
+
+
 
 > "Every line of code is a cosmic punch toward perfection."
 > "My true potential? No one has seen it at 100% yet."
@@ -58,7 +70,9 @@ passion:
 
 ## OS & Device
 
-```yaml
+<img src = "./Assets/Images/1737137963_new_KangelSample.gif" width="160" alt="AmeBeachAnimation" align="left"/>
+
+<pre lang="yaml">
 os:
   - NixOS
   - macOS
@@ -73,7 +87,9 @@ device:
     storage:
       - 1TB SSD
       - 2TB HDD
-```
+</pre>
+
+<br clear="left"/>
 
 ---
 
@@ -131,5 +147,5 @@ networks:
 ---
 
 <div align="center">
-  <img src="./Assets/Images/NagatoroKimono_3310x.jpg.webp" width="720" alt="Nagatoro"/>
+  <img src="./Assets/Images/1753659265_new_amebeachanimation.gif" width="720" alt="Ame_Chan"/>
 </div>
