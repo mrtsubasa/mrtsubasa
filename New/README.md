@@ -104,6 +104,7 @@ device:
 
 <div align="center">
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=mrtsubasa&theme=shadow&layout=compact" height="160" alt="Top Languages"/>
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mrtsubasa" height="160" alt="Github Stats"
 </div>
 
 ---
@@ -119,10 +120,22 @@ device:
 ## My Team
 
 ```text
-Taheb • Kisakay • Xon • 7up • Mikky • Swammyy • Aku • Shining
+Taheb • Kisakay • Xon • Dok • Krowzyx • Mikky • Swammyy • Aku • Shining • Yuki • Tyxia
 ```
 
 ---
+
+## My Discord Guild
+
+```text
+Nlx (Nolyx):
+    - Xon
+    - Abdel
+    - And all Nlx Members 
+```
+
+---
+
 
 ## Contact Me
 
