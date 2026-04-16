@@ -128,13 +128,10 @@ Taheb • Kisakay • Xon • Dok • Krowzyx • Mikky • Swammyy • Aku • 
 ## My Discord Guild
 
 ```text
-SKBD (SKIBIDI):
-    - Shiiroz
-    - Athena
-    - Kasumi
-    - Neoned
-    - Kazxmi
-    - And all SKBD Members 
+Nlx (Nolyx):
+    - Xon
+    - Abdel
+    - And all Nlx Members 
 ```
 
 ---
