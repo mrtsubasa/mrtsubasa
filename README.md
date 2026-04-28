@@ -128,10 +128,12 @@ Taheb • Kisakay • Xon • Dok • Krowzyx • Mikky • Swammyy • Aku • 
 ## My Discord Guild
 
 ```text
-Nlx (Nolyx):
-    - Xon
-    - Abdel
-    - And all Nlx Members 
+CLTY (Clarity):
+    - Dok
+    - Mikky
+    - Snayz
+    - Akiro
+    - And all CLTY Members 
 ```
 
 ---
@@ -139,7 +141,7 @@ Nlx (Nolyx):
 
 ## Contact Me
 
-- [Boar Hat](https://discord.gg/7T7zqmp2kH)
+- [Clarity](https://discord.gg/MGrZGTY2zY)
 - [Guns.lol](https://guns.lol/tsubabadev)
 - [Telegram](https://t.me/tsulinks)
 
