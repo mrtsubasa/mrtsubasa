@@ -117,14 +117,6 @@ device:
 
 ---
 
-## My Team
-
-```text
-Taheb • Kisakay • Xon • Dok • Krowzyx • Mikky • Swammyy • Aku • Shining • Yuki • Tyxia
-```
-
----
-
 ## My Discord Guild
 
 ```text
