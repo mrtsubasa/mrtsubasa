@@ -8,8 +8,6 @@
 
 <br/>
 
-<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg" alt="typing">
-
 <br/><br/>
 
 - <img src="https://flagcdn.com/24x18/rs.png" width="18" align="center"/> &nbsp;A young **Full-stack Developer** from Yugoslavia, evolving in the shadows
@@ -29,7 +27,7 @@
 
 <img src="./Assets/Images/silverwolf_999_body.webp" width="300" align="right" alt="Silver Wolf LV.999 splash"/>
 
-<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/d1a2fcf0cfef98b36e41fae20c81bbcb.jpg" alt="Repositories" width="500">
+<img title="" src="./Assets/Images/d1a2fcf0cfef98b36e41fae20c81bbcb.jpg" alt="Repositories" width="500">
 
 <br/>
 
@@ -63,6 +61,10 @@
 <a href="https://discord.com/users/1072553881134972970">
   <img src="https://lanyard.cnrad.dev/api/1072553881134972970?theme=dark&bg=0D1117&borderRadius=15px&animated=true&showDisplayName=true&idleMessage=In%20the%20shadows%2C%20I%20evolve.%20In%20the%20light%2C%20I%20ship." alt="discord presence"/>
 </a>
+<div align="right">
+<img src="./Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg"/>
+</div>
+
 
 ## My stats:
 
