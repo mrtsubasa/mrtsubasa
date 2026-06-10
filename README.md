@@ -62,7 +62,7 @@
   <img src="https://lanyard.cnrad.dev/api/1072553881134972970?theme=dark&bg=0D1117&borderRadius=15px&animated=true&showDisplayName=true&idleMessage=In%20the%20shadows%2C%20I%20evolve.%20In%20the%20light%2C%20I%20ship." alt="discord presence"/>
 </a>
 <div align="right">
-<img src="./Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg"/>
+<img src="./Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg" width="150"/>
 </div>
 
 
