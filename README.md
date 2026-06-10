@@ -27,7 +27,6 @@
 
 <br/>
 
-<img src="./Assets/Images/silverwolf_999_body.webp" width="300" align="right" alt="Silver Wolf LV.999 splash"/>
 
 <img title="" src="./Assets/Images/d1a2fcf0cfef98b36e41fae20c81bbcb.jpg" alt="Repositories" width="500">
 
