@@ -75,7 +75,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtsubasa&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=F73F8E&text_color=C9D1D9"/>
 </p>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mrtsubasa&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img title="" src="file:///home/tsu/Images/Profile/HSR/Silver Wolf/5a6ba61a03d9ab61cfb8a4ec13ca604f.jpg" alt="" width="">
 
 ## Commits
 
