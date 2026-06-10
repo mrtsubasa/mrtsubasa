@@ -4,11 +4,11 @@
 
 <img src="./Assets/Images/silverwolf_999_face.webp" width="300" align="right" alt="Silver Wolf LV.999"/>
 
-<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/731fbbab60d503495b9683cc84e3bd88.jpg" alt="Tsubasa" width="500">
+<img title="" src="./Assets/Images/731fbbab60d503495b9683cc84e3bd88.jpg" alt="Tsubasa" width="500">
 
 <br/>
 
-<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg" alt="typing">
+<img title="" src="./Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg" alt="typing">
 
 <br/><br/>
 
@@ -29,7 +29,7 @@
 
 <img src="./Assets/Images/silverwolf_999_body.webp" width="300" align="right" alt="Silver Wolf LV.999 splash"/>
 
-<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/d1a2fcf0cfef98b36e41fae20c81bbcb.jpg" alt="Repositories" width="500">
+<img title="" src="./Assets/Images/d1a2fcf0cfef98b36e41fae20c81bbcb.jpg" alt="Repositories" width="500">
 
 <br/>
 
