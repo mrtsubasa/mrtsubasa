@@ -3,11 +3,11 @@
 <div>
 
 <img src="./Assets/Images/silverwolf_999_face.webp" width="300" align="right" alt="Silver Wolf LV.999"/>
-<img src="https://capsule-render.vercel.app/api?type=text&height=70&fontSize=58&fontColor=F73F8E&text=Tsubasa&fontAlign=14&fontAlignY=52&desc=In%20the%20shadows%20I%20evolve%20%E2%80%94%20in%20the%20light%20I%20ship&descAlign=20&descAlignY=92&descSize=16" width="500" alt="Tsubasa"/>
+
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=A855F7&width=480&lines=Young+Full-stack+Developer+from+Yugoslavia;Code%2C+Strategy+%26+Constant+Evolution;No+one+has+seen+me+at+100%25+yet." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=A855F7&width=480&lines=Tsubasa;Young+Full-stack+Developer+from+Yugoslavia;Code%2C+Strategy+%26+Constant+Evolution;No+one+has+seen+me+at+100%25+yet." alt="typing"/>
 
 
 <br/>
