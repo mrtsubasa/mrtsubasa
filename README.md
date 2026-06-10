@@ -4,11 +4,11 @@
 
 <img src="./Assets/Images/silverwolf_999_face.webp" width="300" align="right" alt="Silver Wolf LV.999"/>
 
-<img src="https://capsule-render.vercel.app/api?type=text&height=70&fontSize=58&fontColor=F73F8E&text=Tsubasa&fontAlign=14&fontAlignY=52&desc=In%20the%20shadows%20I%20evolve%20%E2%80%94%20in%20the%20light%20I%20ship&descAlign=20&descAlignY=92&descSize=16" width="500" alt="Tsubasa"/>
+<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/731fbbab60d503495b9683cc84e3bd88.jpg" alt="Tsubasa" width="500">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=A855F7&width=480&lines=Young+Full-stack+Developer+from+Yugoslavia;Code%2C+Strategy+%26+Constant+Evolution;No+one+has+seen+me+at+100%25+yet." alt="typing"/>
+<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/e902e75918ccc373d917e454f6bfbf6c.jpg" alt="typing">
 
 <br/><br/>
 
@@ -29,7 +29,7 @@
 
 <img src="./Assets/Images/silverwolf_999_body.webp" width="300" align="right" alt="Silver Wolf LV.999 splash"/>
 
-<img src="https://capsule-render.vercel.app/api?type=text&height=60&fontSize=44&fontColor=A855F7&text=Repositories&fontAlign=18&fontAlignY=55" width="500" alt="Repositories"/>
+<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/d1a2fcf0cfef98b36e41fae20c81bbcb.jpg" alt="Repositories" width="500">
 
 <br/>
 
@@ -75,7 +75,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtsubasa&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=F73F8E&text_color=C9D1D9"/>
 </p>
 
-<img title="" src="file:///home/tsu/Images/Profile/HSR/Silver Wolf/5a6ba61a03d9ab61cfb8a4ec13ca604f.jpg" alt="" width="">
+<img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/5a6ba61a03d9ab61cfb8a4ec13ca604f.jpg" alt="" width="">
 
 ## Commits
 
