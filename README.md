@@ -70,17 +70,6 @@
 </div>
 
 
-## My stats:
-
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrtsubasa&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F73F8E&text_color=C9D1D9&icon_color=A855F7"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=mrtsubasa&hide_border=true&background=0D1117&stroke=A855F7&ring=F73F8E&fire=22D3EE&currStreakLabel=F73F8E&sideLabels=C9D1D9&dates=8B949E&currStreakNum=22D3EE&sideNums=22D3EE&dayLabels=C9D1D9"/>
-</p>
-
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtsubasa&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=F73F8E&text_color=C9D1D9"/>
-</p>
-
 <img title="" src="file:///home/tsu/Documents/GitHub/mrtsubasa/Assets/Images/5a6ba61a03d9ab61cfb8a4ec13ca604f.jpg" alt="" width="">
 
 ## Commits
