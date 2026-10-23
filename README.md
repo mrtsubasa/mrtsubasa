@@ -82,6 +82,8 @@
 discord:  1tsubasa
 twitter:  @_1tsubasa
 github:   mrtsubasa
+gitlab:   1Tsubasa
+vybe:     1tsubasa
 ```
 
 ## Thanks for reading ❤️
