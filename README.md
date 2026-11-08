@@ -35,7 +35,7 @@
 
 <br/>
 
-- 💠 &nbsp;[***Clarity***](https://discord.gg/MGrZGTY2zY) <br/>
+- 💠 &nbsp;[***Clarity***](https://discord.gg/NbBGsPKFjP) <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;My current focus — building in the shadows
 - 🤝 &nbsp;[***iHorizon***](https://github.com/iHorizon) <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;Contributor
@@ -73,7 +73,7 @@
 
 ## Connect with me
 
-<a href="https://discord.gg/MGrZGTY2zY"><img src="https://img.shields.io/badge/Clarity-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/NbBGsPKFjP"><img src="https://img.shields.io/badge/Clarity-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://guns.lol/tsubabadev"><img src="https://img.shields.io/badge/guns.lol-F73F8E?style=for-the-badge&logoColor=white"/></a>
 <a href="https://t.me/tsulinks"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://twitter.com/_1tsubasa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
